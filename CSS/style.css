@@ -1,0 +1,44 @@
+
+h1{
+   color: blue;
+   font-size: 25px
+   color: blue;
+   font-size:  5em;
+   border: 6px dotted;
+   padding: 6px;
+}
+ body{
+   background-color:grey;
+}
+img{
+   border: 12px blue solid ;
+   width: 200px;
+   height: 200px;
+}
+ ol{
+   background-color: blue;
+   border:3px blue;
+}
+
+li:hover{
+  font-size: 40px;
+  text-decoration: uderline;
+}
+
+img:hover{
+  height: 150px;
+  width: 200px;
+}
+
+li{
+  transition: 0.3s ease;
+}  
+
+
+
+}
+ ul{
+   background-color: blue;
+   border:3px blue
+}
+pading:15px
